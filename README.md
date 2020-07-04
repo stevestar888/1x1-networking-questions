@@ -1,5 +1,5 @@
 # 1x1-networking-questions
-Categories: [Starter / Background](##starter--background), [Industry Deep Dive](#industry-deep-dive), [Tech Focused](#Tech Focused), [Personal](#Personal), [Campus Specific](#Campus Specific), [In Closing](#In Closing).
+Categories: [Starter / Background](##starter--background), [Industry Deep Dive](#industry-deep-dive), [Tech Focused](#tech-focused), [Personal](#personal), [Campus Specific](#campus-specific), [In Closing](#in-closing).
 ## Starter / Background
 - Tell me a bit about your background and how you ended up in your role today.
 - What was your career discovery journey like? 

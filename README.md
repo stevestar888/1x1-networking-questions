@@ -1,5 +1,5 @@
 # 1x1-networking-questions
-
+Categories: [Starter / Background](#Starter / Background), [Industry Deep Dive](#Industry Deep Dive), [Tech Focused](#Tech Focused), [Personal](#Personal), [Campus Specific](#Campus Specific), [In Closing](#In Closing).
 ## Starter / Background
 - Tell me a bit about your background and how you ended up in your role today.
 - What was your career discovery journey like? 
@@ -15,7 +15,7 @@
   + How can we leverage the moment to get ahead?
 - Who are your area’s biggest stakeholders?
 
-## Tech Focus
+## Tech Focused
 - How has the company focused on improving user experience in recent years/projects/planning?
 
 ## Personal

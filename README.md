@@ -23,6 +23,7 @@ Categories: [Starter / Background](##starter--background), [Industry Deep Dive](
 - What have you found to be sucessful in buliding relationships at work? 
 -	How do you navigate "internal politics" of the office?
 - Do you prefer WFH or in office better? Why?
+- What event (or series of events) have contributed to your growth the most.
 
 ## Campus Specific
 - Where are the best places to hang out? To grab a bite to eat?

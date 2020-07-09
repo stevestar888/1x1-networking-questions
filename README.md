@@ -22,6 +22,7 @@ Categories: [Starter / Background](##starter--background), [Industry Deep Dive](
 - Who do you go to for feedback? How do you handle feedback?
 - What have you found to be sucessful in buliding relationships at work? 
 -	How do you navigate "internal politics" of the office?
+- Do you prefer WFH or in office better? Why?
 
 ## Campus Specific
 - Where are the best places to hang out? To grab a bite to eat?

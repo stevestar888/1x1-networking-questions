@@ -1,5 +1,5 @@
 # 1x1-networking-questions
-Categories: [Starter / Background](##starter--background), [Industry Deep Dive](#industry-deep-dive), [Tech Focused](#tech-focused), [Personal](#personal), [Campus Specific](#campus-specific), [In Closing](#in-closing).
+Categories: [Starter / Background](##starter--background), [Industry Deep-Dive](#industry-deep-dive), [Tech Focused](#tech-focused), [Personal](#personal), [Campus Specific](#campus-specific), [In Closing](#in-closing).
 ## Starter / Background
 - Tell me a bit about your background and how you ended up in your role today.
 - What was your career discovery journey like? 
@@ -10,7 +10,7 @@ Categories: [Starter / Background](##starter--background), [Industry Deep Dive](
 - What are the pain points of your role?
 - Who or what teams do you work closely with?
 
-## Industry Deep Dive
+## Industry Deep-Dive
 - What are some of the industries biggest opportunities and challenges right now?
   + How can we leverage the moment to get ahead?
 - Who are your area’s biggest stakeholders?

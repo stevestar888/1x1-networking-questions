@@ -14,6 +14,7 @@ Categories: [Starter / Background](##starter--background), [Industry Deep-Dive](
 - What are some of the industries biggest opportunities and challenges right now?
   + How can we leverage the moment to get ahead?
 - Who are your area’s biggest stakeholders?
+- What is the future market outlook like? 
 
 ## Tech Focused
 - How has the company focused on improving user experience in recent years/projects/planning?
@@ -25,10 +26,11 @@ Categories: [Starter / Background](##starter--background), [Industry Deep-Dive](
 - Do you prefer WFH or in office better? Why?
 - What event (or series of events) have contributed to your growth the most.
 
-## Campus Specific
+## Organization / Campus Specific
 - Where are the best places to hang out? To grab a bite to eat?
 - What is the culture of the campus like?
 - What does leadership do (execs, managers, etc.) do to be transparent? 
+- How is your structured? Is it a hierarchy, is it a flat organization? 
 
 ## In Closing
 - Do you have any resources that would be helpful for me to have?

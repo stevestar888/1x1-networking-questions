@@ -18,6 +18,7 @@ Categories: [Starter / Background](##starter--background), [Industry Deep-Dive](
 
 ## Tech Focused
 - How has the company focused on improving user experience in recent years/projects/planning?
+- Who are the clients for [product]? 
 
 ## Personal
 - Who do you go to for feedback? How do you handle feedback?
@@ -25,6 +26,7 @@ Categories: [Starter / Background](##starter--background), [Industry Deep-Dive](
 -	How do you navigate "internal politics" of the office?
 - Do you prefer WFH or in office better? Why?
 - What event (or series of events) have contributed to your growth the most.
+- What has been your most fun/engaging project?
 
 ## Organization / Campus Specific
 - Where are the best places to hang out? To grab a bite to eat?

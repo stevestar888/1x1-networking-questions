@@ -37,3 +37,6 @@ Categories: [Starter / Background](##starter--background), [Industry Deep-Dive](
 ## In Closing
 - Do you have any resources that would be helpful for me to have?
 - Are there any other people who you think it'd be good for me to connect with? 
+
+## Yi Yang
+- Hello World

@@ -27,6 +27,8 @@ Categories: [Starter / Background](##starter--background), [Industry Deep-Dive](
 - Do you prefer WFH or in office better? Why?
 - What event (or series of events) have contributed to your growth the most.
 - What has been your most fun/engaging project?
+- What is the learning curve like for somebody in your role?
+- As a manager, what do you expect of a new employee in 6 months?
 
 ## Organization / Campus Specific
 - Where are the best places to hang out? To grab a bite to eat?

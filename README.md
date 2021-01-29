@@ -1,5 +1,6 @@
 # 1x1-networking-questions
-Categories: [Starter / Background](##starter--background), [Industry Deep-Dive](#industry-deep-dive), [Tech Focused](#tech-focused), [Personal](#personal), [Campus Specific](#campus-specific), [In Closing](#in-closing).
+Categories: [Starter / Background](##starter--background), [Finance Focused](#finance-focused), [Tech Focused](#tech-focused), [Personal](#personal), [Campus Specific](#campus-specific), [In Closing](#in-closing)
+
 ## Starter / Background
 - Tell me a bit about your background and how you ended up in your role today.
 - What was your career discovery journey like? 
@@ -9,12 +10,15 @@ Categories: [Starter / Background](##starter--background), [Industry Deep-Dive](
 - What is your workflow like (where does your work come in, who views your work, etc.)?
 - What are the pain points of your role?
 - Who or what teams do you work closely with?
-
-## Industry Deep-Dive
 - What are some of the industries biggest opportunities and challenges right now?
   + How can we leverage the moment to get ahead?
 - Who are your area’s biggest stakeholders?
-- What is the future market outlook like? 
+
+## Finance Focused
+- Just for fun, and if you want to share, what’s an investment that worked really well, and one that flopped?
+- How has [department/business/clients] been impacted by bear market in the past? How do you prep?
+- What tools/resources do you use for researching? 
+- What is the future market outlook like?
 
 ## Tech Focused
 - How has the company focused on improving user experience in recent years/projects/planning?
